@@ -1,0 +1,14 @@
+.content {
+    text-align: center;
+    background-color: white;
+    margin: 50px;
+    padding: 15px;
+}
+.content h1 {
+    text-align: left;
+}
+
+.content p {
+    text-align: left;
+}
+

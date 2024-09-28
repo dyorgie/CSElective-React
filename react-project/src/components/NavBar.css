@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #3f784c;
+    color: #f0ffce;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 2rem;
+    padding: 0 1rem;
+    height: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+ul {
+    padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+li {
+    padding: 13px;
+}
