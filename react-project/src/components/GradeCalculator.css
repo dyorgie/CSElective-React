@@ -1,0 +1,10 @@
+.container {
+    display: block;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.calcButton {
+    width: 180px;
+    background-color: lightcoral;
+}

@@ -1,0 +1,18 @@
+const [enable, setEnable] = useState(true);
+
+(enable && <p> Hello world </p>)
+
+<button onClick={() => setEnable(!enable)}> 
+    {enable ? "Hide" : "Show"} 
+</button>
+
+<div className="container">
+    <Header></Header>
+    <NavBar></NavBar>
+    <Body></Body>
+    
+    </div>
+
+    <div className='useStateContainer'>
+    <State></State>
+    </div>

@@ -13,12 +13,18 @@
 
 ul {
     padding: 0;
-  margin: 0;
-  list-style: none;
-  display: flex;
-  gap: 2rem;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 2rem;
 }
 
 li {
     padding: 13px;
+}
+
+.navbar li:hover {
+    cursor: pointer;
+    background-color: beige;
+    color: #3f784c;
 }

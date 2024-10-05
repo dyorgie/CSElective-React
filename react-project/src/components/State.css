@@ -1,0 +1,13 @@
+.state {
+    display: block;
+    text-align: center;
+}
+
+.state button {
+    margin: 5px;
+}
+
+.calcButton {
+    border-radius: 5px;
+    margin: 15px;
+}
